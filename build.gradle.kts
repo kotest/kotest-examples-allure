@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
    kotlin("jvm") version "1.6.21"
-   id("io.qameta.allure") version "2.10.0"
+   id("io.qameta.allure") version "2.12.0"
 }
 
 repositories {
