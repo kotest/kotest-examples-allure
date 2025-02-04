@@ -1,5 +1,7 @@
 # kotest-examples-allure
 
+## Migrated to https://github.com/kotest/kotest-examples
+
 Example project using Kotest and Allure https://github.com/allure-framework
 
 Clone this repo, execute:
